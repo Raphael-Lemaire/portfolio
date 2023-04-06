@@ -1948,14 +1948,14 @@ header .logo a {
  * ------------------------------------------------------------------
  */
 .popup-modal {
-	max-width: 800px;
+	max-width: 1200px;
 	background: #FFFFFF;
 	position: relative;
 	margin: 0 auto;
 }
 .popup-modal .media {
 	position: relative;
-	height: 70vh; /* ou n'importe quelle hauteur désirée */
+	height: 100vh; /* ou n'importe quelle hauteur désirée */
   }
   
   .popup-modal .carousel {
