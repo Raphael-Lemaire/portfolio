@@ -1098,10 +1098,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
   
   .carousel-nav .prev {
 	margin-left: 20px;
+	color: black
   }
   
   .carousel-nav .next {
 	margin-right: 20px;
+	color: black
   }
 /**
  * responsive:
